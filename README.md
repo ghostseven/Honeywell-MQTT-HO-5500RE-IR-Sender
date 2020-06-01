@@ -5,6 +5,8 @@ A simple Arduino project to send IR signals to a Honeywell HO-5500RE Tower Fan u
    * [Library](#library)
    * [Hardware](#hardware)
    * [Circuit](#circuit)
+   * [Configuration](#configuration)
+   * [MQTT](#mqtt)
    * [3D-Printed-Case](#3D-Printed-Case)
 
 ## Library 
